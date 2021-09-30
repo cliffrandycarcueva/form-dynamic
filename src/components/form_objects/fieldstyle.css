@@ -1,0 +1,10 @@
+.field_grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  margin-bottom: 10px;
+}
+
+.div_style {
+  text-align: left;
+  margin-left: 30px;
+}
